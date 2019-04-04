@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[Default.aspx](./CS/XpoWebApplication/Default.aspx) (VB: [Default.aspx](./VB/XpoWebApplication/Default.aspx))**
-* [Default.aspx.cs](./CS/XpoWebApplication/Default.aspx.cs) (VB: [Default.aspx](./VB/XpoWebApplication/Default.aspx))
+* [Default.aspx.cs](./CS/XpoWebApplication/Default.aspx.cs) (VB: [Default.aspx.designer.vb](./VB/XpoWebApplication/Default.aspx.designer.vb))
 <!-- default file list end -->
 # How to bind ASPxFormLayout to  XpoDataSource
 
